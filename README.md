@@ -9,3 +9,4 @@ Key outputs include the mean cash flow, standard deviation, and risk probability
 ![Screenshot 2025-04-07 124239](https://github.com/user-attachments/assets/41d9913f-ba62-4b4d-90d9-c8e67d48177b)
 ![Screenshot 2025-04-07 124252](https://github.com/user-attachments/assets/c36add9f-8062-4915-a2b3-cf443871788f)
 ![Screenshot 2025-04-07 124600](https://github.com/user-attachments/assets/7a77acae-bff5-4ff8-b627-c6ea6c16e3ae)
+![Screenshot 2025-04-07 125152](https://github.com/user-attachments/assets/048d4d8f-48cf-4d96-a91c-53634a954bd1)
