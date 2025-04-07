@@ -3,6 +3,7 @@ Monte Carlo Simulation for Sales Forecasting and Risk Assessment
 This project uses Monte Carlo simulations to forecast sales and assess financial risk in real estate projects. It handles both new projects, by predicting future sales based on area and duration, and ongoing projects, by refining forecasts using historical sales data.
 The model runs 10,000 simulations with 10% variations in sales, pricing, and capital expenditure to simulate different market conditions. It calculates the failure rate (probability of negative cash flow) using normal distribution to assess the project’s financial viability.
 Key outputs include the mean cash flow, standard deviation, and risk probability of failure, helping stakeholders make informed decisions on project investments.
+![Screenshot 2025-04-07 125454](https://github.com/user-attachments/assets/9efc928c-4008-49ef-9f58-6b3f17a0c6fc)
 
 ![Screenshot 2025-04-07 123812](https://github.com/user-attachments/assets/ec919f57-e5ba-4673-a40d-991a8939f3a7)
 ![Screenshot 2025-04-07 124320](https://github.com/user-attachments/assets/52637562-b6da-405e-a974-b39732be46d1)
